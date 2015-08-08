@@ -29,5 +29,5 @@ sortList_By_DOB.: Script that takes a list of names and their dates of briths fr
 
 testPsswd_Strength1: Tests password strength using Python functions
 
-testPsswd_Strength2: Tests password strength using Regular expressions
+testPsswd_Strength1: Tests password strength using Regular expressions
 
