@@ -31,3 +31,7 @@ testPsswd_Strength1: Tests password strength using Python functions
 
 testPsswd_Strength2: Tests password strength using Regular expressions
 
+CGI-Website-How-Long-Have-You-Been-Alive.pl: Perl CGI script that will check user name and password against details on file. Once login credentials have been verified, the user can input their date of birth and find how long they have been alive, in days, hours, minutes or seconds and they can leave a comments and see comments left by previous users. Once they are finished they can log out.
+
+TheatreTicketSystem.java: This programme will allow the user to book seats within three categories if those seats are avaialable. The user can continue on if they wish or close the programme when they have finished. The programme will close automaticaly once all seats have been sold. Once the programme ends to final seating plan will be printed.
+
